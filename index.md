@@ -7,8 +7,10 @@
 - Unsupervised/Contrastive Learning
 
 ### Projects
+
 #### edge.ai
 - Acknowloedgement: OOOO
+
 #### edge.analytics
 - Acknowloedgement: OOOO
 
@@ -42,12 +44,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yukingx/nnarch.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [contact](yhmoon@etri.re.kr) and we’ll help you sort it out.
+- Check out our [current list of papers](https://github.com/etri-edgeai/etri-edgeai.github.io/wiki/References) we have concerned til now.
+- For more details, see [project page](https://etri-edgeai.github.io)
