@@ -8,9 +8,11 @@
 
 ```markdown
 # Our Journey on the ML pipeline
-1. Searching near-optimal backbone networks
-2. Adjusting hyperparameters and Retraining
-3. Deploy fine-tuned models on the ground!
+1. Searching near-optimal backbone arhcitectures
+2. Adjusting hyperparameters and retraining
+3. Multiscaling the deep nerual networks
+4. Put more efforts for performance fine-tuning
+5. Deploy fine-tuned models on the ground!
 ```
 
 ### Current Projects
