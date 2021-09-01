@@ -1,16 +1,21 @@
 ## Deep Neural Optimization Lab (DNOL)
 
 ### Research
-EMNLP Findings 2021
-ECCVW 2021
-ICTC 2021
+- Deep learning
+- AutoML (NAS, HPO)
+- Distributed learning (FL)
+- Unsupervised/Contrastive Learning
 
 ### Projects
-edge.ai
-edge.analytics
+#### edge.ai
+- Acknowloedgement: OOOO
+#### edge.analytics
+- Acknowloedgement: OOOO
 
-### Acknowloedgement
-OOOO
+### Publication
+- EMNLP Findings 2021
+- ECCVW 2021
+- ICTC 2021
 
 ### Markdown
 You can use the [editor on GitHub](https://github.com/yukingx/nnarch.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -43,6 +48,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yukingx/nnarch.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
