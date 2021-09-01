@@ -10,19 +10,19 @@
 
 # Our Journey on the ML pipeline
 
-1. Searching near-optimal backbone arhcitectures
+~ $ Searching near-optimal backbone arhcitectures
 
-2. Adjusting hyperparameters and retraining
+~ $ Adjusting hyperparameters and retraining
 
-3. Multiscaling the deep nerual networks
+~ $ Multiscaling the deep nerual networks
 
-4. Put more efforts for performance fine-tuning
+~ $ Put more efforts for performance fine-tuning
 
-5. Accelerating inference at edge devices
+~ $ Accelerating inference at edge devices
 
-6. Deploy fine-tuned models on the ground!
+~ $ Deploy fine-tuned models on the ground!
 
-7. Domain adaptation using distributed learning
+~ $ Domain adaptation using distributed learning
 
 ```
 
