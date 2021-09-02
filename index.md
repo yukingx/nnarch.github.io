@@ -1,10 +1,10 @@
 ## Deep Neural Optimization Lab (DNOL)
 
 ### Research
-- Deep learning
-- AutoML (NAS, HPO)
-- Distributed learning (FL)
-- Unsupervised/Contrastive Learning
+- Deep Learning, AutoML (NAS, HPO)
+- Meta Learning, Sparse Learning
+- Model Scaling, Distributed Learning (FL)
+- Unsupervised/Contrastive Learning, Domain Adaptation
 
 ```markdown
 
