@@ -7,32 +7,23 @@
 - Unsupervised/Contrastive Learning
 
 ```markdown
-
 # Our Journey starting from the ML pipeline
-
 ~ $ Searching near-optimal backbone arhcitectures
-
 ~ $ Adjusting hyperparameters and retraining
-
 ~ $ Multiscaling the deep nerual networks
 
 # But way more beyond those efforts
-
 ~ $ Put more efforts for performance fine-tuning
-
 ~ $ Accelerating inference at edge devices
-
 ~ $ Deploy fine-tuned models on the ground!
-
 ~ $ Domain adaptation using distributed learning
-
 ```
 
 ### Professor
 - <p align="justify"> Yong-Hyuk Moon received the M.S. and Ph.D. degrees in Information and Communication Engineering from Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea, in 2006 and 2013, respectively. He also started serving as an Associate Professor in the Computer Software Department at the University of Science and Technology (UST), Daejeon, Korea, in September 2021. His particular research activities concern automated machine learning, deep learning, optimization theory, distributed/edge computing. Academic achivements are as follows. </p>
 
   - <p align="justify"> Pulication: 61 peer-reviewed research papers including SCI/SCIE/ESCE Journal (8), IEEE/ACM (19), LNCS/LNEE (4), Best/Selected/Invited (5), international conference papers (6), and domestic conference papers (19) </p>
-  - <p align="justify"> TPC/Reviewer: IEEE TPDS/TSMC/JSAC/Wireless Magazine/Access, Journal of Supercomputing, Journal of Combinatorial Optimization, ETRI Journal, and IEEE Conferences </p>
+  - <p align="justify"> TPC/Reviewer: IEEE TPDS/TSMC/JSAC/Wireless Magazine/Access, Journal of Supercomputing, Journal of Combinatorial Optimization, ETRI Journal, and lots of IEEE Conferences </p>
   - <p align="justify"> Patents/Standardization: 50 appliations and 21 granted among them, and contributed to ITU-T (4) and ASTAP (8) </p>
 
 <!---
