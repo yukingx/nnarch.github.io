@@ -30,9 +30,9 @@
 
 ### Professor
 - Yong-Hyuk Moon is a senior researcher with the Artificial Intelligence Laboratory in Electronics and Telecommunications Research Institute (ETRI), Daejeon, Korea, since 2006. He also started serving as an Associate Professor in the Computer Software Department at the University of Science and Technology (UST), Daejeon, Korea, in September 2021. He received the M.S. and Ph.D. degrees in Information and Communication Engineering from Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea, in 2006 and 2013, respectively. His particular research activities concern automated machine learning, deep learning, optimization, device security, and edge computing. Academic achivements are summarized as follows.
-  - Published 60 peer-reviewed researc papers including SCI/SCIE/ESCE Journal (8), IEEE/ACM (19), Best/Selected/Invited (5), Domestic Papers (19), etc.
-  - Professional service as a TPC(Technical Program Committee) or Reviewer in IEEE TPDS/TSMC/JSAC/Wireless Magazine/Access, Journal of Supercomputing, Journal of Combinatorial Optimization, and ETRI Journal
-  - 50 appliations and 21 granted patents among them and standardization constributions at ITU-T (4) and ASTAP (8)
+  - Published 60 peer-reviewed researc papers including SCI/SCIE/ESCE Journal (8), IEEE/ACM (19), Best/Selected/Invited (5), Domestic Papers (19) and so forth.
+  - Served as a TPC(Technical Program Committee) or Reviewer in IEEE TPDS/TSMC/JSAC/Wireless Magazine/Access, Journal of Supercomputing, Journal of Combinatorial Optimization, and ETRI Journal
+  - Published 50 appliations and among them 21 granted and contributed to ITU-T (4) and ASTAP (8)
 
 ### Research Members
 - Currently, Three AI researchers have been involved in the same project. 
