@@ -3,7 +3,7 @@
 ### Research Areas
 - AutoML (NAS, HPO), Meta Learning 
 - Sparse Learning, Model Scaling
-- Distributed Learning (FL, Multi-Agent)
+- Distributed Learning (FL, Multiagent)
 - Unsupervised/Contrastive Learning
 
 ```markdown
