@@ -1,20 +1,22 @@
 ## Deep Neural Optimization Lab (DNOL)
 
-### Research
-- Deep Learning, AutoML (NAS, HPO)
-- Meta Learning, Sparse Learning
-- Model Scaling, Distributed Learning (FL)
-- Unsupervised/Contrastive Learning, Domain Adaptation
+### Research Areas
+- AutoML (NAS, HPO), Meta Learning 
+- Sparse Learning, Model Scaling
+- Distributed Learning (FL, Multi-Agent)
+- Unsupervised/Contrastive Learning
 
 ```markdown
 
-# Our Journey on the ML pipeline
+# Our Journey starting from the ML pipeline
 
 ~ $ Searching near-optimal backbone arhcitectures
 
 ~ $ Adjusting hyperparameters and retraining
 
 ~ $ Multiscaling the deep nerual networks
+
+# But way more beyond those efforts
 
 ~ $ Put more efforts for performance fine-tuning
 
