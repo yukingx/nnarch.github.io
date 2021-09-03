@@ -30,14 +30,15 @@
 
 ### Professor
 - <p align="justify"> Yong-Hyuk Moon received the M.S. and Ph.D. degrees in Information and Communication Engineering from Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea, in 2006 and 2013, respectively. He also started serving as an Associate Professor in the Computer Software Department at the University of Science and Technology (UST), Daejeon, Korea, in September 2021. His particular research activities concern automated machine learning, deep learning, optimization theory, distributed/edge computing. Academic achivements are as follows. </p>
-  - <p align="justify"> 1) Pulication: 61 peer-reviewed research papers including SCI/SCIE/ESCE Journal (8), IEEE/ACM (19), LNCS/LNEE (4), Best/Selected/Invited (5), international conference papers (6), and domestic conference papers (19) </p>
-  - <p align="justify"> 2) TPC/Reviewer: IEEE TPDS/TSMC/JSAC/Wireless Magazine/Access, Journal of Supercomputing, Journal of Combinatorial Optimization, and ETRI Journal </p>
-  - <p align="justify"> 3) Patents: 50 appliations and 21 granted among them </p>
-  - <p align="justify"> 4) Standardization: Contributed to ITU-T (4) and ASTAP (8) </p>
-[comment]: <>
+
+  - <p align="justify"> Pulication: 61 peer-reviewed research papers including SCI/SCIE/ESCE Journal (8), IEEE/ACM (19), LNCS/LNEE (4), Best/Selected/Invited (5), international conference papers (6), and domestic conference papers (19) </p>
+  - <p align="justify"> TPC/Reviewer: IEEE TPDS/TSMC/JSAC/Wireless Magazine/Access, Journal of Supercomputing, Journal of Combinatorial Optimization, ETRI Journal, and IEEE Conferences </p>
+  - <p align="justify"> Patents/Standardization: 50 appliations and 21 granted among them, and contributed to ITU-T (4) and ASTAP (8) </p>
+
+<!---
 - <p align="justify"> Yong-Hyuk Moon is a senior researcher with the Artificial Intelligence Laboratory in Electronics and Telecommunications Research Institute (ETRI), Daejeon, Korea, since 2006. He also started serving as an Associate Professor in the Computer Software Department at the University of Science and Technology (UST), Daejeon, Korea, in September 2021. He received the M.S. and Ph.D. degrees in Information and Communication Engineering from Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea, in 2006 and 2013, respectively. His particular research activities concern automated machine learning, deep learning, optimization theory, distributed/edge computing. </p>
-[comment]: <>
 - <p align="justify"> Academic achivements are as follows: I have published 61 peer-reviewed research papers including SCI/SCIE/ESCE Journal (8), IEEE/ACM (19), LNCS/LNEE (4), Best/Selected/Invited (5), international conference papers (6), and domestic conference papers (19); have served as a TPC(Technical Program Committee) or Reviewer in IEEE TPDS/TSMC/JSAC/Wireless Magazine/Access, Journal of Supercomputing, Journal of Combinatorial Optimization, and ETRI Journal; also have published 50 appliations and among them 21 granted; and have contributed to ITU-T (4) and ASTAP (8). </p>
+-->
 
 ### Researchers
 - Currently, Three AI researchers have been involved in the edge.ai project. 
