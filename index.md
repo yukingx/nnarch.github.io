@@ -12,7 +12,7 @@
 ~ $ Adjusting hyperparameters and retraining
 ~ $ Multiscaling the deep nerual networks
 
-# But way more beyond those efforts for real-world analytics
+# But way more beyond that for real-world analytics
 ~ $ Put more efforts for performance fine-tuning
 ~ $ Accelerating inference at edge devices
 ~ $ Deploy fine-tuned models on the ground!
