@@ -31,12 +31,10 @@
 ### Current Projects
 
 #### edge.ai
-- (2021.04 ~ 2024.12) Development of Adaptive and Lightweight Edge-Collaborative Analysis Technology for Enabling Proactively Immediate Response and Rapid Learning.
-- Acknowloedgement: This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT).
+- (2021.04 ~ 2024.12) Development of Adaptive and Lightweight Edge-Collaborative Analysis Technology for Enabling Proactively Immediate Response and Rapid Learning (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)).
 
 #### edge.analytics
-- (2018.04 ~ 2020.12) Development of Big Data Edge Analytics SW Technology for Load Balancing and Active Timely Response
-- Acknowloedgement: This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT).
+- (2018.04 ~ 2020.12) Development of Big Data Edge Analytics SW Technology for Load Balancing and Active Timely Response (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)).
 
 ### New Publication
 - Jong-Ryul Lee, Yong-Ju Lee, and Yong-Hyuk Moon, "Block-wise Word Embedding Compression Revisited: Better Weighting and Structuring," to appear in the proceedings of The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), November 7, 2021.
