@@ -57,4 +57,4 @@
 ### Contact
 - [contact](mailto:yhmoon@etri.re.kr) and we are looking for grduate students (ms/phd) and post dr.
 - (WIP) Check out our [current list of papers](https://github.com/etri-edgeai/etri-edgeai.github.io/wiki/References) we have concerned til now.
-- (WIP) For more details, See [project page](https://etri-edgeai.github.io)
+- (WIP) For more details, see [project page](https://etri-edgeai.github.io)
