@@ -28,13 +28,23 @@
 
 ```
 
-### Current Projects
+### Professor
+- Yong-Hyuk Moon is a senior researcher with the Artificial Intelligence Laboratory in Electronics and Telecommunications Research Institute (ETRI), Daejeon, Korea, since 2006. He also started serving as an Associate Professor in the Computer Software Department at the University of Science and Technology (UST), Daejeon, Korea, in September 2021. He received the M.S. and Ph.D. degrees in Information and Communication Engineering from Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea, in 2006 and 2013, respectively. His particular research activities concern automated machine learning, deep learning, optimization, device security, and edge computing. Academic achivements are summarized as follows.
+  - Published 60 peer-reviewed researc papers including SCI/SCIE/ESCE Journal (8), IEEE/ACM (19), Best/Selected/Invited (5), Domestic Papers (19), etc.
+  - Professional service as a TPC(Technical Program Committee) or Reviewer in IEEE TPDS/TSMC/JSAC/Wireless Magazine/Access, Journal of Supercomputing, Journal of Combinatorial Optimization, and ETRI Journal
+  - 50 appliations and 21 granted patents among them and standardization constributions at ITU-T (4) and ASTAP (8)
+
+### Research Members
+- Currently, Three AI researchers have been involved in the same project. 
+- Jong-Ryul Lee (Task Lead, PhD), Jungyong Park, and Jiyeon Kim
+
+### Projects Granted
 
 #### edge.ai
-- (2021.04 ~ 2024.12) Development of Adaptive and Lightweight Edge-Collaborative Analysis Technology for Enabling Proactively Immediate Response and Rapid Learning (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)).
+- (2021.04 ~ 2024.12 as Project Lead) Development of Adaptive and Lightweight Edge-Collaborative Analysis Technology for Enabling Proactively Immediate Response and Rapid Learning (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)).
 
 #### edge.analytics
-- (2018.04 ~ 2020.12) Development of Big Data Edge Analytics SW Technology for Load Balancing and Active Timely Response (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)).
+- (2018.04 ~ 2020.12 as Task Lead) Development of Big Data Edge Analytics SW Technology for Load Balancing and Active Timely Response (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)).
 
 ### New Publication
 - Jong-Ryul Lee, Yong-Ju Lee, and Yong-Hyuk Moon, "Block-wise Word Embedding Compression Revisited: Better Weighting and Structuring," to appear in the proceedings of The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), November 7, 2021.
@@ -46,5 +56,5 @@
 
 ### Contact
 - [contact](mailto:yhmoon@etri.re.kr) and we are looking for grduate students (ms/phd) and post dr.
-- Check out our [current list of papers](https://github.com/etri-edgeai/etri-edgeai.github.io/wiki/References) we have concerned til now.
-- For more details, [project page](https://etri-edgeai.github.io)
+- (WIP) Check out our [current list of papers](https://github.com/etri-edgeai/etri-edgeai.github.io/wiki/References) we have concerned til now.
+- (WIP) For more details, See [project page](https://etri-edgeai.github.io)
