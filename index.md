@@ -1,4 +1,4 @@
-## Deep Neural Optimization Lab (DNOL)
+## Deep Neural Optimization Lab @ UST
 
 ### Research Areas
 - AutoML (NAS, HPO), Meta Learning 
@@ -40,7 +40,7 @@
 - <p align="justify"> Academic achivements are as follows: I have published 61 peer-reviewed research papers including SCI/SCIE/ESCE Journal (8), IEEE/ACM (19), LNCS/LNEE (4), Best/Selected/Invited (5), international conference papers (6), and domestic conference papers (19); have served as a TPC(Technical Program Committee) or Reviewer in IEEE TPDS/TSMC/JSAC/Wireless Magazine/Access, Journal of Supercomputing, Journal of Combinatorial Optimization, and ETRI Journal; also have published 50 appliations and among them 21 granted; and have contributed to ITU-T (4) and ASTAP (8). </p>
 -->
 
-### Researchers
+### DNOL Members
 - Currently, Three AI researchers have been involved in the edge.ai project. 
 - Jong-Ryul Lee (Task Lead, PhD), Jungyong Park, and Jiyeon Kim
 
