@@ -29,9 +29,8 @@
 ```
 
 ### Professor
-<p align="justify">
-Yong-Hyuk Moon is a senior researcher with the Artificial Intelligence Laboratory in Electronics and Telecommunications Research Institute (ETRI), Daejeon, Korea, since 2006. He also started serving as an Associate Professor in the Computer Software Department at the University of Science and Technology (UST), Daejeon, Korea, in September 2021. He received the M.S. and Ph.D. degrees in Information and Communication Engineering from Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea, in 2006 and 2013, respectively. His particular research activities concern automated machine learning, deep learning, optimization theory, distributed/edge computing. Academic achivements are as follows: I have published 60 peer-reviewed researc papers including SCI/SCIE/ESCE Journal (8), IEEE/ACM (19), Best/Selected/Invited (5), Domestic Papers (19); have served as a TPC(Technical Program Committee) or Reviewer in IEEE TPDS/TSMC/JSAC/Wireless Magazine/Access, Journal of Supercomputing, Journal of Combinatorial Optimization, and ETRI Journal; also have published 50 appliations and among them 21 granted; and have contributed to ITU-T (4) and ASTAP (8).
- </p>
+- <p align="justify">
+Yong-Hyuk Moon is a senior researcher with the Artificial Intelligence Laboratory in Electronics and Telecommunications Research Institute (ETRI), Daejeon, Korea, since 2006. He also started serving as an Associate Professor in the Computer Software Department at the University of Science and Technology (UST), Daejeon, Korea, in September 2021. He received the M.S. and Ph.D. degrees in Information and Communication Engineering from Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea, in 2006 and 2013, respectively. His particular research activities concern automated machine learning, deep learning, optimization theory, distributed/edge computing. Academic achivements are as follows: I have published 60 peer-reviewed researc papers including SCI/SCIE/ESCE Journal (8), IEEE/ACM (19), Best/Selected/Invited (5), Domestic Papers (19); have served as a TPC(Technical Program Committee) or Reviewer in IEEE TPDS/TSMC/JSAC/Wireless Magazine/Access, Journal of Supercomputing, Journal of Combinatorial Optimization, and ETRI Journal; also have published 50 appliations and among them 21 granted; and have contributed to ITU-T (4) and ASTAP (8). </p>
 
 ### Researchers
 - Currently, Three AI researchers have been involved in the edge.ai project. 
@@ -40,18 +39,18 @@ Yong-Hyuk Moon is a senior researcher with the Artificial Intelligence Laborator
 ### Projects Granted
 
 #### edge.ai
-- (2021.04 ~ 2024.12 as Project Lead) Development of Adaptive and Lightweight Edge-Collaborative Analysis Technology for Enabling Proactively Immediate Response and Rapid Learning (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)).
+- <p align="justify"> (2021.04 ~ 2024.12 as Project Lead) Development of Adaptive and Lightweight Edge-Collaborative Analysis Technology for Enabling Proactively Immediate Response and Rapid Learning (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)). </p>
 
 #### edge.analytics
-- (2018.04 ~ 2020.12 as Task Lead) Development of Big Data Edge Analytics SW Technology for Load Balancing and Active Timely Response (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)).
+- <p align="justify"> (2018.04 ~ 2020.12 as Task Lead) Development of Big Data Edge Analytics SW Technology for Load Balancing and Active Timely Response (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)). </p>
 
 ### New Publication
 - <p align="justify"> Jong-Ryul Lee, Yong-Ju Lee, and Yong-Hyuk Moon, "Block-wise Word Embedding Compression Revisited: Better Weighting and Structuring," to appear in the proceedings of The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), November 7, 2021. </p>
-- Jungyong Park, Yong-Hyuk Moon, and Yong-Ju Lee, "Efficient Approximation of Filters for High-Accuracy Binary Convolutional Neural Networks," European Conference on Computer Vision (ECCV) 2020 (LNCS 12539), v.12539, pp.71-84.
-- Yong-Hyuk Moon and Yong-Ju Lee, "A Practical Dense-to-Sparse Learning for a Manageable Object Detector on the Ground," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.
-- Jong-Ryul Lee and Yong-Hyuk Moon, "An Empirical Study on Channel Pruning through Residual Connections," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.
-- Jungyong Park, Jong-Ryul Lee, and Yong-Hyuk Moon, "Improved Early Exiting Activation to Accelerate Edge Inference," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.
-- Jiyeon Kim, Yong-Ju Lee, and Yong-Hyuk Moon, "Enhancing the Data Regularization Effect with Randomly Combined Features for Object Detection," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.
+- <p align="justify"> Jungyong Park, Yong-Hyuk Moon, and Yong-Ju Lee, "Efficient Approximation of Filters for High-Accuracy Binary Convolutional Neural Networks," European Conference on Computer Vision (ECCV) 2020 (LNCS 12539), v.12539, pp.71-84. </p>
+- <p align="justify"> Yong-Hyuk Moon and Yong-Ju Lee, "A Practical Dense-to-Sparse Learning for a Manageable Object Detector on the Ground," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
+- <p align="justify"> Jong-Ryul Lee and Yong-Hyuk Moon, "An Empirical Study on Channel Pruning through Residual Connections," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
+- <p align="justify"> Jungyong Park, Jong-Ryul Lee, and Yong-Hyuk Moon, "Improved Early Exiting Activation to Accelerate Edge Inference," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
+- <p align="justify"> Jiyeon Kim, Yong-Ju Lee, and Yong-Hyuk Moon, "Enhancing the Data Regularization Effect with Randomly Combined Features for Object Detection," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
 
 ### Contact
 - [contact](mailto:yhmoon@etri.re.kr) and we are looking for grduate students (ms/phd) and post dr.
