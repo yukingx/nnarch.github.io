@@ -34,7 +34,7 @@ Yong-Hyuk Moon is a senior researcher with the Artificial Intelligence Laborator
  </p>
 
 ### Researchers
-- Currently, Three AI researchers have been involved in the same project. 
+- Currently, Three AI researchers have been involved in the edge.ai project. 
 - Jong-Ryul Lee (Task Lead, PhD), Jungyong Park, and Jiyeon Kim
 
 ### Projects Granted
