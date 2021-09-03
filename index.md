@@ -1,6 +1,10 @@
 ## Deep Neural Optimization Lab @ UST
 
-### Research Areas
+### Research
+<!---
+I'm interested in algorithms for visual perception (object recognition, localization, segmentation, pose estimation, ...) and visual reasoning (answering complex queries, often in natural language, about images). My work explores topics in computer vision and machine/deep/statistical learning.
+-->
+<p align="justify"> I'm interested in solving complex problems with staggeringly high dimensional data. Recently, I explore subjects in computer vision and deep learning such as </p>
 - AutoML (NAS, HPO), Meta Learning 
 - Sparse Learning, Model Scaling
 - Distributed Learning (FL, Multiagent)
