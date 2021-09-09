@@ -1,7 +1,7 @@
 ## Deep Neural Optimization Lab
 
 ### DNOL@UST (University of Science and Technology)
-- <p align="justify"> [Introduction Video](https://www.youtube.com/watch?v=ACisStatU-g) </p>
+- [Introduction Video](https://www.youtube.com/watch?v=ACisStatU-g)
 
 ### Research
 <!---
