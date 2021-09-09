@@ -1,5 +1,8 @@
 ## Deep Neural Optimization Lab @ UST
 
+### University of Science and Technology
+- <p align="justify"> [Introduction Video](https://www.youtube.com/watch?v=ACisStatU-g) </p>
+
 ### Research
 <!---
 - AutoML (NAS, HPO), Meta Learning 
