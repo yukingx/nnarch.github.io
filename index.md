@@ -55,6 +55,6 @@
 - <p align="justify"> Jiyeon Kim, Yong-Ju Lee, and Yong-Hyuk Moon, "Enhancing the Data Regularization Effect with Randomly Combined Features for Object Detection," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
 
 ### Contact
-- [contact](mailto:yhmoon@etri.re.kr) and we are looking for grduate students (MS/PhD) and Post Drs.
+- [Contact](mailto:yhmoon@etri.re.kr) and we are looking for grduate students (MS/PhD) and Post Drs.
 - (WIP) Check out our [current list of papers](https://github.com/etri-edgeai/etri-edgeai.github.io/wiki/References) we have concerned til now.
 - (WIP) For more details, see [project page](https://etri-edgeai.github.io)
