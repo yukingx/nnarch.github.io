@@ -5,8 +5,8 @@
 
 ### UST Value
 - [Youtube Video](https://www.youtube.com/watch?v=ACisStatU-g)
-- [Admission (Korean)](https://https://admission.ust.ac.kr/admission.do)
-- [Admission (English)](https://https://admission.ust.ac.kr/admission_eng.do)
+- [Admission (Korean)](https://admission.ust.ac.kr/admission.do)
+- [Admission (English)](https://admission.ust.ac.kr/admission_eng.do)
 - [Apply UST!](https://apply.ust.ac.kr)
 
 ### Research
