@@ -29,4 +29,5 @@
 - Event Recognition
 - Strong Baseline for Vehicle Reidentification
 
-### 3. [DNOL: Deep Neural Optimization Lab](https://yukingx.github.io/index)
+### 2. Deep Neural Optimization Lab
+- [DNOL](https://yukingx.github.io/index)
