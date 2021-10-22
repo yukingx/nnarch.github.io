@@ -9,6 +9,9 @@
 - Flow
 -->
 
+### Introduction to DNOL
+- See what we are doing...
+
 ### 0. Optimization Theory
 
 #### Core Concepts of Linear Algebra
