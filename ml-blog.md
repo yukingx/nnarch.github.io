@@ -7,7 +7,7 @@
 - Dooray
 - Flow
 
-### Optimization Theory
+### 0. Optimization Theory
 
 #### Core Concepts of Linear Algebra
 -
@@ -15,7 +15,7 @@
 #### Convex Optimization
 -
 
-### Research
+### 1. Research
 
 #### Neural Architecture Search
 - Meta Learning (Few-Shot)
