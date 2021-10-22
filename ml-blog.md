@@ -9,9 +9,6 @@
 - Flow
 -->
 
-### Introduction to DNOL
-- See what we are doing...
-
 ### 0. Optimization Theory
 
 #### Core Concepts of Linear Algebra
@@ -31,3 +28,5 @@
 - Object Detection
 - Event Recognition
 - Strong Baseline for Vehicle Reidentification
+
+### Deep Neural Optimization Lab [DNOL](https://yukingx.github.io/index)
