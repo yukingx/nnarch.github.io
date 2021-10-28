@@ -34,6 +34,7 @@
 ### Professor
 - <p align="justify"> Yong-Hyuk Moon received the M.S. and Ph.D. degrees in Information and Communication Engineering from Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea, in 2006 and 2013, respectively. He also started serving as an Associate Professor in the Computer Software Department at the University of Science and Technology (UST), Daejeon, Korea, in September 2021. His particular research activities concern automated machine learning, deep learning, optimization theory, distributed/edge computing. Academic achivements are as follows. </p>
 
+<!--- Need to check include recent papers? -->
   - <p align="justify"> Pulication: 61 peer-reviewed research papers including SCI/SCIE/ESCI Journal (8), IEEE/ACM (19), LNCS/LNEE (4), Best/Selected/Invited (5), international conference papers (6), and domestic conference papers (19) </p>
   - <p align="justify"> TPC/Reviewer: IEEE TPDS, IEEE TSMC, IEEE JSAC, IEEE Wireless Magazine, IEEE Access, Journal of Supercomputing, Journal of Combinatorial Optimization, ETRI Journal, and lots of IEEE Conferences </p>
   - <p align="justify"> Patents/Standardization: 50 appliations and 21 granted among them, and contributed to ITU-T (4) and ASTAP (8) </p>
@@ -62,6 +63,12 @@
 - <p align="justify"> (IEEE, SCOPUS-indexd) Jong-Ryul Lee and Yong-Hyuk Moon, "An Empirical Study on Channel Pruning through Residual Connections," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
 - <p align="justify"> (IEEE, SCOPUS-indexd) Jungyong Park, Jong-Ryul Lee, and Yong-Hyuk Moon, "Improved Early Exiting Activation to Accelerate Edge Inference," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
 - <p align="justify"> (IEEE, SCOPUS-indexd) Jiyeon Kim, Yong-Ju Lee, and Yong-Hyuk Moon, "Enhancing the Data Regularization Effect with Randomly Combined Features for Object Detection," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
+
+<!---
+### Patents Granted Recently
+- <p align="justify"> (USA) OOO. </p>
+- <p align="justify"> (KOREA) OOO. </p>
+-->
 
 ### Contact
 - [Contact](mailto:yukingx@gmail.com) and we are looking for grduate students (MS/PhD) and Post Drs.
