@@ -46,7 +46,7 @@
 
 ### DNOL Members
 - Currently, four AI researchers have been involved in the edge.ai project. 
-- Jong-Ryul Lee (Task Lead, PhD), Jungyong Park, Jiyeon Kim, and Yong-Ju Lee (PhD).
+- Jong-Ryul Lee (Task Lead, PhD), Jungyong Park, Sewoon Choi (PhD), and Yong-Ju Lee (PhD).
 
 ### Projects Granted
 
@@ -57,6 +57,7 @@
 - <p align="justify"> (2018.04 ~ 2020.12 as Task Lead) Development of Big Data Edge Analytics SW Technology for Load Balancing and Active Timely Response (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)). </p>
 
 ### New Publication
+- <p align="justify"> New Paper has been submitted to IJCAI 2022 </p>
 - <p align="justify"> (AI Top-Tier, H5-Index 112) Jong-Ryul Lee, Yong-Ju Lee, and Yong-Hyuk Moon, "Block-wise Word Embedding Compression Revisited: Better Weighting and Structuring," to appear in the proceedings of The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 7, 2021. </p>
 - <p align="justify"> (AI Top-Tier, H5-index 197) Jungyong Park, Yong-Hyuk Moon, and Yong-Ju Lee, "Efficient Approximation of Filters for High-Accuracy Binary Convolutional Neural Networks," European Conference on Computer Vision (ECCV) 2020 (LNCS 12539), v.12539, pp.71-84. </p>
 - <p align="justify"> (IEEE, SCOPUS-indexd) Yong-Hyuk Moon and Yong-Ju Lee, "A Practical Dense-to-Sparse Learning for a Manageable Object Detector on the Ground," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
