@@ -57,13 +57,18 @@
 - <p align="justify"> (2018.04 ~ 2020.12 as Task Lead) Development of Big Data Edge Analytics SW Technology for Load Balancing and Active Timely Response (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)). </p>
 
 ### New Publication
-- <p align="justify"> Our new paper has been submitted to IJCAI 2022 (AI Top-Tier, H5-index 105), https://ijcai-22.org/ </p>
+- <p align="justify"> We are in the process of drafting a new journal paper regarding inference acceleration on edges. </p>
+- <p align="justify"> Our new paper has been submitted to IJCAI 2022, https://ijcai-22.org/ <!-- (AI Top-Tier, H5-index 105) --></p>
 - <p align="justify"> (AI Top-Tier, H5-Index 112) Jong-Ryul Lee, Yong-Ju Lee, and Yong-Hyuk Moon, "Block-wise Word Embedding Compression Revisited: Better Weighting and Structuring," to appear in the proceedings of The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 7, 2021. </p>
 - <p align="justify"> (AI Top-Tier, H5-index 197) Jungyong Park, Yong-Hyuk Moon, and Yong-Ju Lee, "Efficient Approximation of Filters for High-Accuracy Binary Convolutional Neural Networks," European Conference on Computer Vision (ECCV) 2020 (LNCS 12539), v.12539, pp.71-84. </p>
 - <p align="justify"> (IEEE, SCOPUS-indexd) Yong-Hyuk Moon and Yong-Ju Lee, "A Practical Dense-to-Sparse Learning for a Manageable Object Detector on the Ground," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
 - <p align="justify"> (IEEE, SCOPUS-indexd) Jong-Ryul Lee and Yong-Hyuk Moon, "An Empirical Study on Channel Pruning through Residual Connections," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
 - <p align="justify"> (IEEE, SCOPUS-indexd) Jungyong Park, Jong-Ryul Lee, and Yong-Hyuk Moon, "Improved Early Exiting Activation to Accelerate Edge Inference," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
 - <p align="justify"> (IEEE, SCOPUS-indexd) Jiyeon Kim, Yong-Ju Lee, and Yong-Hyuk Moon, "Enhancing the Data Regularization Effect with Randomly Combined Features for Object Detection," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
+
+### Internship Programs
+- <p align="justify"> (2022.01.03 - 2022.02.25) Edge AI Winter Intership Program 2022 associated with UST, (Interns: Jungmo Kim and Sungwoo Kim)</p>
+- <p align="justify"> (2022.01.01 - 2022.02.28) Edge AI Winter Intership Program 2022 associated with ETRI (Interns: Eunji Kim, Eunkyung Kim, and Sungwoo Noh)</p>
 
 <!---
 ### Patents Granted Recently
