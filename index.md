@@ -67,6 +67,8 @@
 - <p align="justify"> (IEEE, SCOPUS-indexd) Jiyeon Kim, Yong-Ju Lee, and Yong-Hyuk Moon, "Enhancing the Data Regularization Effect with Randomly Combined Features for Object Detection," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
 
 ### Internship Programs
+<!-- 인턴 수행과정(최종발표자료, 구현코드/실험결과(Repo), 발표사진, 연구사진, 기념사진 등) 서브페이지 작성 -->
+<!-- 본 내용을 etri-edgeai.github.io 에도 동일하게 구성하여 홍보실적 2건으로 구성 -->
 - <p align="justify"> (2022.01.03~2022.02.25) Edge AI Winter Intership Program 2022 associated with UST, (Interns: Jungmo Kim and Sungwoo Kim)</p>
 - <p align="justify"> (2022.01.01~2022.02.28) Edge AI Winter Intership Program 2022 associated with ETRI (Interns: Eunji Kim, Eunkyung Kim, and Sungwoo Noh)</p>
 
