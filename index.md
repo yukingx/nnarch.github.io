@@ -71,7 +71,7 @@
 ### Internship Programs
 <!-- 인턴 수행과정(최종발표자료, 구현코드/실험결과(Repo), 발표사진, 연구사진, 기념사진 등) 서브페이지 작성 -->
 <!-- 본 내용을 etri-edgeai.github.io 에도 동일하게 구성하여 홍보실적 2건으로 구성 -->
-- <span style="color:blue"> We are now planning to schedule "Edge AI Summer Intership Program 2022 associated with UST </span>
+- <span style="color:blue"> <em> (New) We are now planning to schedule "Edge AI Summer Intership Program 2022 associated with UST </em> </span>
 - <p align="justify"> (2022.01.03~2022.02.25) Edge AI Winter Intership Program 2022 associated with UST, (Interns: Jungmo Kim and Seongwoo Kim)</p>
 - <p align="justify"> (2022.01.01~2022.02.28) Edge AI Winter Intership Program 2022 associated with ETRI (Interns: Eunji Kim, Eunkyeoung Kim, and Seungwoo Roh)</p>
 
