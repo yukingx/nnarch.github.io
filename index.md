@@ -50,6 +50,9 @@
 
 ### Projects Granted
 
+#### (New) agent.ai
+- <p align="justify"> (2022.04 ~ 2026.12 as Task Lead) More details will be provided soon. </p>
+
 #### edge.ai
 - <p align="justify"> (2021.04 ~ 2024.12 as Project Lead) Development of Adaptive and Lightweight Edge-Collaborative Analysis Technology for Enabling Proactively Immediate Response and Rapid Learning (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)). </p>
 
