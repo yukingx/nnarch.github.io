@@ -37,7 +37,7 @@
 <!--- Need to check include recent papers? -->
   - <p align="justify"> Publication: 61 peer-reviewed research papers including SCI/SCIE/ESCI Journal (8), IEEE/ACM (19), LNCS/LNEE (4), Best/Selected/Invited (5), international conference papers (6), and domestic conference papers (19) </p>
   - <p align="justify"> TPC/Reviewer: IEEE TPDS, IEEE TSMC, IEEE JSAC, IEEE Wireless Magazine, IEEE Access, Journal of Supercomputing, Journal of Combinatorial Optimization, ETRI Journal, and lots of IEEE Conferences </p>
-  - <p align="justify"> Patents/Standardization: 50 appliations and 21 granted among them, and contributed to ITU-T (4) and ASTAP (8) </p>
+  - <p align="justify"> Patents/Standardization: 50 applications and 21 granted among them, and contributed to ITU-T (4) and ASTAP (8) </p>
 
 <!---
 - <p align="justify"> Yong-Hyuk Moon is a senior researcher with the Artificial Intelligence Laboratory in Electronics and Telecommunications Research Institute (ETRI), Daejeon, Korea, since 2006. He also started serving as an Associate Professor in the Computer Software Department at the University of Science and Technology (UST), Daejeon, Korea, in September 2021. He received the M.S. and Ph.D. degrees in Information and Communication Engineering from Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea, in 2006 and 2013, respectively. His particular research activities concern automated machine learning, deep learning, optimization theory, distributed/edge computing. </p>
