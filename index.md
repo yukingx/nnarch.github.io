@@ -73,6 +73,7 @@
 - <p align="justify"> <span style="color:blue"> (New) We have submitted a new journal paper regarding inference acceleration on edges. </span> </p>
 - <p align="justify"> <span style="color:blue"> (New) We are working on drafting to submit our new paper in BMVC 2022. <!--(https://britishmachinevisionassociation.github.io/bmvc)--> <!-- (AI Top-Tier, H5-index 105) --> </span> </p>
 - <p align="justify"> <span style="color:blue"> (New) As a result of Edge AI Winter Intership Program 2022, we are working on drafting to submit our new paper in a domestic journal. </span> </p>
+- <p align="justify"> (IEEE Journal, SCIE-indexed, IF 3.367) Jong-Yeon Park, Yong-Hyuk Moon, Wonil Lee, Sung-Hyun Kim, and Kouichi Sakurai, "A Survey of Polynomial Multiplication With RSA-ECC Coprocessors and Implementations of NIST PQC Round3 KEM Algorithms in Exynos2100," published in IEEE ACCESS Volume 10, 2022. </p>
 - <p align="justify"> (AI Top-Tier, H5-Index 112) Jong-Ryul Lee, Yong-Ju Lee, and Yong-Hyuk Moon, "Block-wise Word Embedding Compression Revisited: Better Weighting and Structuring," in the proceedings of The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 7, 2021. </p>
    <!-- - [Paper](https://aclanthology.org/2021.findings-emnlp.372.pdf) <br> -->
    <!-- - [Code](https://github.com/etri-edgeai/nn-comp-discblock) <br> -->
