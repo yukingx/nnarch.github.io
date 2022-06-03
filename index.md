@@ -12,10 +12,8 @@
 ### News
 - <p align="justify"> <span style="color:blue"> (Summer Internship) </span> We are also planning to schedule "<em> Edge AI Summer Intership Program 2022 associated with ETRI </em>."
 - <p align="justify"> <span style="color:blue"> (Summer Internship) </span> We are currently reviewing candidate students for "<em> Edge AI Summer Intership Program 2022 associated with UST </em>."
-- <p align="justify"> <span style="color:blue"> (Paper Awards) </span> Eunji Kim and Seongwoo Kim (Winter Internship 2022) won the Best Paper Awards in ASK 2022 2 organized by KIPS. </p>
-  - <p align="justify"> "<em> A Docker-based Evaluation Program for Model Inference Performance on Heterogeneous Edge Environments </em>" (Mentor: Jongryul Lee, Advisor: Yong-Hyuk Moon) </p>
-- <p align="justify"> <span style="color:blue"> (Paper Awards) </span> Eunkyeoung Kim (Winter Intenship 2022) won the Paper Awards in ASK 2022 organized by KIPS. </p>
-  - <p align="justify"> "<em> Instance Segmentation Based Tomato Pests Disease Detection for Feasibility Evaluation </em>" (Mentor: Junyong Park, Advisor: Yong-Hyuk Moon) </p>
+- <p align="justify"> <span style="color:blue"> (Paper Awards) </span> Eunji Kim and Seongwoo Kim (Winter Internship 2022) won the Best Paper Awards in ASK 2022 2 organized by KIPS. - "<em> A Docker-based Evaluation Program for Model Inference Performance on Heterogeneous Edge Environments </em>" (Mentor: Jongryul Lee, Advisor: Yong-Hyuk Moon) </p>
+- <p align="justify"> <span style="color:blue"> (Paper Awards) </span> Eunkyeoung Kim (Winter Intenship 2022) won the Paper Awards in ASK 2022 organized by KIPS. - "<em> Instance Segmentation Based Tomato Pests Disease Detection for Feasibility Evaluation </em>" (Mentor: Junyong Park, Advisor: Yong-Hyuk Moon) </p>
 
 ### Research
 <!---
@@ -83,7 +81,7 @@
 ### Internship Programs
 <!-- 인턴 수행과정(최종발표자료, 구현코드/실험결과(Repo), 발표사진, 연구사진, 기념사진 등) 서브페이지 작성 -->
 <!-- 본 내용을 etri-edgeai.github.io 에도 동일하게 구성하여 홍보실적 2건으로 구성 -->
-- <p align="justify"> (2022.01.03~2022.02.25) Edge AI Winter Intership Program 2022 associated with UST, (Interns: Jungmo Kim and Seongwoo Kim)</p>
+- <p align="justify"> (2022.01.03~2022.02.25) Edge AI Winter Intership Program 2022 associated with UST (Interns: Jungmo Kim and Seongwoo Kim)</p>
 - <p align="justify"> (2022.01.01~2022.02.28) Edge AI Winter Intership Program 2022 associated with ETRI (Interns: Eunji Kim, Eunkyeoung Kim, and Seungwoo Roh)</p>
 
 <!---
