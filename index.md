@@ -10,11 +10,14 @@
 - [Apply UST!](https://apply.ust.ac.kr)
 
 ### News
-- <p align="justify"> <span style="color:blue"> (Edge AI Workshop) </span> nn-multiscaling, nn-runtime, applications and framework will be shared and discussed with our partners, which are KETI, KAIST, Nota, FarmConnect, and Daejeon City. </em>."
-- <p align="justify"> <span style="color:blue"> (Summer Internship) </span> We are also planning to schedule "<em> Edge AI Summer Intership Program 2022 associated with ETRI </em>."
-- <p align="justify"> <span style="color:blue"> (Summer Internship) </span> We are currently reviewing candidate students for "<em> Edge AI Summer Intership Program 2022 associated with UST </em>."
-- <p align="justify"> <span style="color:blue"> (Paper Awards) </span> Eunji Kim and Seongwoo Kim (Winter Internship 2022) won the Best Paper Awards in ASK 2022 2 organized by KIPS. - "<em> A Docker-based Evaluation Program for Model Inference Performance on Heterogeneous Edge Environments </em>" (Mentor: Jongryul Lee, Advisor: Yong-Hyuk Moon) </p>
-- <p align="justify"> <span style="color:blue"> (Paper Awards) </span> Eunkyeoung Kim (Winter Intenship 2022) won the Paper Awards in ASK 2022 organized by KIPS. - "<em> Instance Segmentation Based Tomato Pests Disease Detection for Feasibility Evaluation </em>" (Mentor: Junyong Park, Advisor: Yong-Hyuk Moon) </p>
+<!---
+- <p align="justify"> <span style="color:blue"> (Visual Intelligence Workshop) On schedule <TBD> </span> </em>." </p>
+--->
+- <p align="justify"> <span style="color:blue"> (Edge AI Workshop) </span> Talks about nn-multiscaling, nn-disttraining, nn-runtime, edgeai-applications and cloud-edge framework will be shared and related topics are freely discussed with our edge.ai partners, which are KETI, KAIST, Nota, FarmConnect, and Daejeon City</em>." </p>
+- <p align="justify"> <span style="color:blue"> (Summer Internship) </span> We are also planning to schedule "<em> Edge AI Summer Intership Program 2022 associated with ETRI </em>." </p>
+- <p align="justify"> <span style="color:blue"> (Summer Internship) </span> We are currently reviewing candidate students for "<em> Edge AI Summer Intership Program 2022 associated with UST </em>." </p>
+- <p align="justify"> <span style="color:blue"> (Paper Awards) </span> Eunji Kim and Seongwoo Kim (Winter Internship 2022) won the Best Paper Awards in ASK 2022 2 organized by KIPS. - "<em> A Docker-based Evaluation Program for Model Inference Performance on Heterogeneous Edge Environments </em>" (Mentor: Jongryul Lee, Advisor: Yong-Hyuk Moon). </p>
+- <p align="justify"> <span style="color:blue"> (Paper Awards) </span> Eunkyeoung Kim (Winter Intenship 2022) won the Paper Awards in ASK 2022 organized by KIPS. - "<em> Instance Segmentation Based Tomato Pests Disease Detection for Feasibility Evaluation </em>" (Mentor: Junyong Park, Advisor: Yong-Hyuk Moon). </p>
 
 ### Research
 <!---
@@ -74,16 +77,16 @@
    <!-- - [Paper](https://aclanthology.org/2021.findings-emnlp.372.pdf) <br> -->
    <!-- - [Code](https://github.com/etri-edgeai/nn-comp-discblock) <br> -->
 - <p align="justify"> (AI Top-Tier, H5-index 197) Jungyong Park, Yong-Hyuk Moon, and Yong-Ju Lee, "Efficient Approximation of Filters for High-Accuracy Binary Convolutional Neural Networks," European Conference on Computer Vision (ECCV) 2020 (LNCS 12539), v.12539, pp.71-84. </p>
-- <p align="justify"> (IEEE, SCOPUS-indexd) Yong-Hyuk Moon and Yong-Ju Lee, "A Practical Dense-to-Sparse Learning for a Manageable Object Detector on the Ground," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
+- <p align="justify"> (IEEE, SCOPUS-indexd) Yong-Hyuk Moon and Yong-Ju Lee, "A Practical Dense-to-Sparse Learning for a Manageable Object Detector on the Ground," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021. </p>
 - <p align="justify"> (IEEE, SCOPUS-indexd) Jong-Ryul Lee and Yong-Hyuk Moon, "An Empirical Study on Channel Pruning through Residual Connections," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021. </p>
-- <p align="justify"> (IEEE, SCOPUS-indexd) Jungyong Park, Jong-Ryul Lee, and Yong-Hyuk Moon, "Improved Early Exiting Activation to Accelerate Edge Inference," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
-- <p align="justify"> (IEEE, SCOPUS-indexd) Jiyeon Kim, Yong-Ju Lee, and Yong-Hyuk Moon, "Enhancing the Data Regularization Effect with Randomly Combined Features for Object Detection," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021.  </p>
+- <p align="justify"> (IEEE, SCOPUS-indexd) Jungyong Park, Jong-Ryul Lee, and Yong-Hyuk Moon, "Improved Early Exiting Activation to Accelerate Edge Inference," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021. </p>
+- <p align="justify"> (IEEE, SCOPUS-indexd) Jiyeon Kim, Yong-Ju Lee, and Yong-Hyuk Moon, "Enhancing the Data Regularization Effect with Randomly Combined Features for Object Detection," to appear in the proceedings of the 12th International Conference on ICT Convergence (ICTC) 2021, October 20-22, 2021. </p>
 
 ### Internship Programs
 <!-- 인턴 수행과정(최종발표자료, 구현코드/실험결과(Repo), 발표사진, 연구사진, 기념사진 등) 서브페이지 작성 -->
 <!-- 본 내용을 etri-edgeai.github.io 에도 동일하게 구성하여 홍보실적 2건으로 구성 -->
-- <p align="justify"> (2022.01.03~2022.02.25) Edge AI Winter Intership Program 2022 associated with UST (Interns: Jungmo Kim and Seongwoo Kim)</p>
-- <p align="justify"> (2022.01.01~2022.02.28) Edge AI Winter Intership Program 2022 associated with ETRI (Interns: Eunji Kim, Eunkyeoung Kim, and Seungwoo Roh)</p>
+- <p align="justify"> (2022.01.03~2022.02.25) Edge AI Winter Intership Program 2022 associated with UST (Interns: Jungmo Kim and Seongwoo Kim). </p>
+- <p align="justify"> (2022.01.01~2022.02.28) Edge AI Winter Intership Program 2022 associated with ETRI (Interns: Eunji Kim, Eunkyeoung Kim, and Seungwoo Roh). </p>
 
 <!---
 ### Patents Granted Recently
