@@ -13,7 +13,7 @@
 <!---
 - <p align="justify"> <span style="color:blue"> (Visual Intelligence Workshop) On schedule <TBD> </span> </em>." </p>
 --->
-- <p align="justify"> <span style="color:blue"> (Edge AI Workshop) </span> Talks about nn-multiscaling, nn-disttraining, nn-runtime, edgeai-applications and cloud-edge framework will be shared and related topics are freely discussed with our edge.ai partners, which are KETI, KAIST, Nota, FarmConnect, and Daejeon City</em>." </p>
+- <p align="justify"> <span style="color:blue"> (Edge AI Workshop) </span> Talks about nn-multiscaling, nn-disttraining, nn-runtime, edgeai-applications and cloud-edge framework will be shared and related topics are freely discussed with our edge.ai partners, which are KETI, KAIST, Nota, FarmConnect, and Daejeon City." </p>
 - <p align="justify"> <span style="color:blue"> (Summer Internship) </span> We are also planning to schedule "<em> Edge AI Summer Intership Program 2022 associated with ETRI </em>." </p>
 - <p align="justify"> <span style="color:blue"> (Summer Internship) </span> We are currently reviewing candidate students for "<em> Edge AI Summer Intership Program 2022 associated with UST </em>." </p>
 - <p align="justify"> <span style="color:blue"> (Paper Awards) </span> Eunji Kim and Seongwoo Kim (Winter Internship 2022) won the Best Paper Awards in ASK 2022 2 organized by KIPS. - "<em> A Docker-based Evaluation Program for Model Inference Performance on Heterogeneous Edge Environments </em>" (Mentor: Jongryul Lee, Advisor: Yong-Hyuk Moon). </p>
