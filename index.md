@@ -97,7 +97,7 @@
 
 ### Contact
 - [Contact](mailto:yukingx@icloud.com) and we are looking for grduate students (MS/PhD) and Post Drs.
-- For more details, see our [Project Page]<!--(https://etri-edgeai.github.io)--> (work-in-progress)
+- For more details, see our [Project Page]<!--(https://etri-edgeai.github.io)--> (work-in-progress).
 <!--- 
 Check out our [current list of papers](https://github.com/etri-edgeai/etri-edgeai.github.io/wiki/References) we have concerned til now. 
 -->
