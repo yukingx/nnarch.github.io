@@ -10,12 +10,12 @@
 - [Apply UST!](https://apply.ust.ac.kr)
 
 ### News
-- <p align="justify"> <span style="color:blue"> (New) We are now planning to schedule "<em> Edge AI Summer Intership Program 2022 associated with UST. </em> " </span>
-- <p align="justify"> <span style="color:blue"> (New) "<em> Edge AI Summer Intership Program 2022 at ETRI </em>" is also worki-in-progress. </span> 
-- <p align="justify"> <span style="color:blue"> (Awards) Eunji Kim and Seongwoo Kim (Winter Internship 2022) won the best paper award in ASK 2022 2 organized by KIPS. </span> </p>
-  - <p align="justify"> Paper: "<em> A Docker-based Evaluation Program for Model Inference Performance on Heterogeneous Edge Environments </em>" (Mentor: Jongryul Lee / Advisor: Yong-Hyuk Moon) </p>
-- <p align="justify"> <span style="color:blue"> (Awards) Eunkyeoung Kim (Winter Intenship 2022) won the paper awards in ASK 2022 organized by KIPS. </span> </p>
-  - <p align="justify"> Paper: "<em> Instance Segmentation Based Tomato Pests Disease Detection for Feasibility Evaluation </em>" (Mentor: Junyong Park / Advisor: Yong-Hyuk Moon) </p>
+- <p align="justify"> <span style="color:blue"> (Summer Internship) </span> We are also planning to schedule "<em> Edge AI Summer Intership Program 2022 associated with ETRI </em>."
+- <p align="justify"> <span style="color:blue"> (Summer Internship) </span> We are currently reviewing candidate students for "<em> Edge AI Summer Intership Program 2022 associated with UST </em>."
+- <p align="justify"> <span style="color:blue"> (Paper Awards) </span> Eunji Kim and Seongwoo Kim (Winter Internship 2022) won the best paper award in ASK 2022 2 organized by KIPS. </p>
+  - <p align="justify"> "<em> A Docker-based Evaluation Program for Model Inference Performance on Heterogeneous Edge Environments </em>" (Mentor: Jongryul Lee, Advisor: Yong-Hyuk Moon) </p>
+- <p align="justify"> <span style="color:blue"> (Paper Awards) </span> Eunkyeoung Kim (Winter Intenship 2022) won the paper awards in ASK 2022 organized by KIPS. </p>
+  - <p align="justify"> "<em> Instance Segmentation Based Tomato Pests Disease Detection for Feasibility Evaluation </em>" (Mentor: Junyong Park, Advisor: Yong-Hyuk Moon) </p>
 
 ### Research
 <!---
@@ -70,7 +70,7 @@
 ### New Publication
 - <p align="justify"> <span style="color:blue"> (New) We have submitted a new journal paper regarding inference acceleration on edges. </span> </p>
 - <p align="justify"> <span style="color:blue"> (New) We are working on drafting to submit our new paper in BMVC 2022. <!--(https://britishmachinevisionassociation.github.io/bmvc)--> <!-- (AI Top-Tier, H5-index 105) --> </span> </p>
-- <p align="justify"> <span style="color:blue"> (New) As a result of Edge AI Winter Intership Program 2022, We are working on drafting to submit our new paper in a domestic journal. </span> </p>
+- <p align="justify"> <span style="color:blue"> (New) As a result of Edge AI Winter Intership Program 2022, we are working on drafting to submit our new paper in a domestic journal. </span> </p>
 - <p align="justify"> (AI Top-Tier, H5-Index 112) Jong-Ryul Lee, Yong-Ju Lee, and Yong-Hyuk Moon, "Block-wise Word Embedding Compression Revisited: Better Weighting and Structuring," in the proceedings of The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 7, 2021. </p>
    <!-- - [Paper](https://aclanthology.org/2021.findings-emnlp.372.pdf) <br> -->
    <!-- - [Code](https://github.com/etri-edgeai/nn-comp-discblock) <br> -->
@@ -93,7 +93,7 @@
 -->
 
 ### Contact
-- [Contact](mailto:yukingx@gmail.com) and we are looking for grduate students (MS/PhD) and Post Drs.
+- [Contact](mailto:yukingx@icloud.com) and we are looking for grduate students (MS/PhD) and Post Drs.
 - For more details, see our [Project Page]<!--(https://etri-edgeai.github.io)--> (work-in-progress)
 <!--- 
 Check out our [current list of papers](https://github.com/etri-edgeai/etri-edgeai.github.io/wiki/References) we have concerned til now. 
