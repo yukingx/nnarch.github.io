@@ -10,12 +10,14 @@
 - [Apply UST!](https://apply.ust.ac.kr)
 
 ### News
-- <p align="justify"> Eunji Kim and Seongwoo Kim (Internship) won the best paper award in ASK 2022 </p>
-  - "A Docker-based Evaluation Program for Model Inference Performance on Heterogeneous Edge Environments"
-  - Mentor: Jongryul Lee / Advisor: Yong-Hyuk Moon
-- <p align="justify"> Eunkyeoung Kim (Intenship) won the paper awards in ASK 2022 </p>
-  - "Instance Segmentation Based Tomato Pests Disease Detection for Feasibility Evaluation"
-  - Mentor: Junyong Park / Advisor: Yong-Hyuk Moon
+- <p align="justify"> <span style="color:blue"> (New) We are now planning to schedule "<em> Edge AI Summer Intership Program 2022 associated with UST </em> " </span>
+- <p align="justify"> <span style="color:blue"> (New) We are now planning to schedule "<em> Edge AI Summer Intership Program 2022 at ETRI </em> " </span> 
+- <p align="justify"> <span style="color:blue"> (Awards) Eunji Kim and Seongwoo Kim (Winter Internship 2022) won the best paper award in ASK 2022 </span> </p>
+  - Paper: "A Docker-based Evaluation Program for Model Inference Performance on Heterogeneous Edge Environments" <br>
+  - Mentor: Jongryul Lee / Advisor: Yong-Hyuk Moon <br>
+- <p align="justify"> <span style="color:blue"> (Awards) Eunkyeoung Kim (Winter Intenship 2022) won the paper awards in ASK 2022 </span> </p>
+  - Paper: "Instance Segmentation Based Tomato Pests Disease Detection for Feasibility Evaluation" <br>
+  - Mentor: Junyong Park / Advisor: Yong-Hyuk Moon <br>
 
 ### Research
 <!---
@@ -68,9 +70,9 @@
 - <p align="justify"> (2018.04 ~ 2020.12 as Task Lead) Development of Big Data Edge Analytics SW Technology for Load Balancing and Active Timely Response (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)). </p>
 
 ### New Publication
-- <p align="justify"> (New) We have submitted a new journal paper regarding inference acceleration on edges. </p>
-- <p align="justify"> (New) We are working on drafting to submit our new paper in BMVC 2022. <!--(https://britishmachinevisionassociation.github.io/bmvc)--> <!-- (AI Top-Tier, H5-index 105) --></p>
-- <p align="justify"> (New) As a result of Edge AI Winter Intership Program 2022, We are working on drafting to submit our new paper in a domestic journal. </p>
+- <p align="justify"> <span style="color:blue"> (New) We have submitted a new journal paper regarding inference acceleration on edges. </span> </p>
+- <p align="justify"> <span style="color:blue"> (New) We are working on drafting to submit our new paper in BMVC 2022. <!--(https://britishmachinevisionassociation.github.io/bmvc)--> <!-- (AI Top-Tier, H5-index 105) --> </span> </p>
+- <p align="justify"> <span style="color:blue"> (New) As a result of Edge AI Winter Intership Program 2022, We are working on drafting to submit our new paper in a domestic journal. </span> </p>
 - <p align="justify"> (AI Top-Tier, H5-Index 112) Jong-Ryul Lee, Yong-Ju Lee, and Yong-Hyuk Moon, "Block-wise Word Embedding Compression Revisited: Better Weighting and Structuring," in the proceedings of The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 7, 2021. </p>
    <!-- - [Paper](https://aclanthology.org/2021.findings-emnlp.372.pdf) <br> -->
    <!-- - [Code](https://github.com/etri-edgeai/nn-comp-discblock) <br> -->
@@ -83,8 +85,6 @@
 ### Internship Programs
 <!-- 인턴 수행과정(최종발표자료, 구현코드/실험결과(Repo), 발표사진, 연구사진, 기념사진 등) 서브페이지 작성 -->
 <!-- 본 내용을 etri-edgeai.github.io 에도 동일하게 구성하여 홍보실적 2건으로 구성 -->
-- <p align="justify"> <span style="color:blue"> (New) We are now planning to schedule "<em> Edge AI Summer Intership Program 2022 associated with UST </em> " </span>
-- <p align="justify"> <span style="color:blue"> (New) We are now planning to schedule "<em> Edge AI Summer Intership Program 2022 at ETRI </em> " </span> 
 - <p align="justify"> (2022.01.03~2022.02.25) Edge AI Winter Intership Program 2022 associated with UST, (Interns: Jungmo Kim and Seongwoo Kim)</p>
 - <p align="justify"> (2022.01.01~2022.02.28) Edge AI Winter Intership Program 2022 associated with ETRI (Interns: Eunji Kim, Eunkyeoung Kim, and Seungwoo Roh)</p>
 
