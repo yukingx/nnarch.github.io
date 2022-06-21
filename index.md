@@ -3,20 +3,21 @@
 --->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyukingx.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### UST at ETRI Campus
-- [Youtube Video](https://www.youtube.com/watch?v=ACisStatU-g)
-- [Admission (Korean)](https://admission.ust.ac.kr/admission.do)
-- [Admission (English)](https://admission.ust.ac.kr/admission_eng.do)
-- [Apply UST!](https://apply.ust.ac.kr)
+### Join UST (ETRI School)
+- <p align="justify"> <span style="color:blue"> (New Positions) </span> We are currenlty looking for Ms/PhD students and Post-Doctoral Researchers. Full scholarships for graduate students are guaranteed and we also support powerful training GPU machines and experimental environments. Research subjects and directions will be carefully advised and fully discussed in our Lab. Please see [Contact] at the bottom." </p>
+  <p align="justify"> [Youtube Video](https://www.youtube.com/watch?v=ACisStatU-g) </p>
+  <p align="justify"> [Admission (Korean)](https://admission.ust.ac.kr/admission.do) </p>
+  <p align="justify"> [Admission (English)](https://admission.ust.ac.kr/admission_eng.do) </p>
+  <p align="justify"> [Apply UST!](https://apply.ust.ac.kr) </p>
 
 ### News
 <!---
 - <p align="justify"> <span style="color:blue"> (Visual Intelligence Workshop) On schedule <TBD> </span> </em>." </p>
 --->
-- <p align="justify"> <span style="color:blue"> (New Positions) </span> We are currenlty looking for Ms/PhD students and Post-Doctoral Researchers. Full scholarships for graduate students are guaranteed and we also support powerful training GPU machines and experimental environments. Research subjects and directions will be carefully advised and fully discussed in our Lab. Please see [Contact] at the bottom." </p>
-- <p align="justify"> <span style="color:blue"> (Edge AI Workshop) </span> Talks about nn-multiscaling, nn-disttraining, nn-runtime, edgeai-applications and cloud-edge framework will be shared and related topics are freely discussed with our edge.ai partners, which are KETI, KAIST, Nota, FarmConnect, and Daejeon City." </p>
-- <p align="justify"> <span style="color:blue"> (UST Summer Internship) </span> We are also planning to schedule "<em> Edge AI Summer Intership Program 2022 associated with ETRI </em>." </p>
-- <p align="justify"> <span style="color:blue"> (ETRI Summer Internship) </span> We are now reviewing candidate students for "<em> Edge AI Summer Intership Program 2022 associated with UST </em>." </p>
+- <p align="justify"> <span style="color:blue"> (GIST-ETRI AI Workshop 2022)</span> I am grateful to share my talk about edge ai research. This workshop will be held in June. </p>
+- <p align="justify"> <span style="color:blue"> (Edge AI Workshop) </span> Talks about nn-multiscaling, nn-disttraining, nn-runtime, edgeai-applications and cloud-edge framework are shared and related topics are freely discussed with our edge.ai partners, which are KETI, KAIST, Nota, FarmConnect, and Daejeon City." </p>
+- <p align="justify"> <span style="color:blue"> (UST Summer Internship) </span> "<em> Edge AI Summer Intership Program 2022 associated with ETRI </em>" is ready to go. </p>
+- <p align="justify"> <span style="color:blue"> (ETRI Summer Internship) </span> "<em> Edge AI Summer Intership Program 2022 associated with UST </em>" is ready to go. </p>
 - <p align="justify"> <span style="color:blue"> (Best Paper Awards) </span> Eunji Kim and Seongwoo Kim (Winter Internship 2022) won the Best Paper Awards in ASK 2022 2 organized by KIPS. - "<em> A Docker-based Evaluation Program for Model Inference Performance on Heterogeneous Edge Environments </em>" (Mentor: Jongryul Lee, Advisor: Yong-Hyuk Moon). </p>
 - <p align="justify"> <span style="color:blue"> (Paper Awards) </span> Eunkyeoung Kim (Winter Intenship 2022) won the Paper Awards in ASK 2022 organized by KIPS. - "<em> Instance Segmentation Based Tomato Pests Disease Detection for Feasibility Evaluation </em>" (Mentor: Junyong Park, Advisor: Yong-Hyuk Moon). </p>
 
