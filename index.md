@@ -3,12 +3,12 @@
 --->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyukingx.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Join UST (ETRI School)
+### Join Our Lab (UST at ETRI School)
 - <p align="justify"> <span style="color:blue"> (New Positions) </span> We are currenlty looking for Ms/PhD students and Post-Doctoral Researchers. Full scholarships for graduate students are guaranteed and we also support powerful training GPU machines and experimental environments. Research subjects and directions will be carefully advised and fully discussed in our Lab. Please see [Contact] at the bottom." </p>
-  <p align="justify"> [Youtube Video](https://www.youtube.com/watch?v=ACisStatU-g) </p>
-  <p align="justify"> [Admission (Korean)](https://admission.ust.ac.kr/admission.do) </p>
-  <p align="justify"> [Admission (English)](https://admission.ust.ac.kr/admission_eng.do) </p>
-  <p align="justify"> [Apply UST!](https://apply.ust.ac.kr) </p>
+- [Youtube Video](https://www.youtube.com/watch?v=ACisStatU-g)
+- [Admission (Korean)](https://admission.ust.ac.kr/admission.do)
+- [Admission (English)](https://admission.ust.ac.kr/admission_eng.do)
+- [Apply UST!](https://apply.ust.ac.kr)
 
 ### News
 <!---
