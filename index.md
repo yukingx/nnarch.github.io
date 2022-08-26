@@ -58,7 +58,7 @@
 
 ### DNOL Members
 - Currently, four AI researchers have been involved in the edge.ai project. 
-- Jong-Ryul Lee (Task Lead, PhD), Junyong Park (PhD Candidate), Sewoon Cho (PhD New), and Yong-Ju Lee (PhD).
+- Jong-Ryul Lee (Task Lead, PhD), Junyong Park (PhD Candidate), and Yong-Ju Lee (PhD).
 
 ### Projects Granted
 
