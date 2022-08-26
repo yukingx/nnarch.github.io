@@ -10,7 +10,7 @@
 - [Admission (English)](https://admission.ust.ac.kr/admission_eng.do)
 - [Apply UST!](https://apply.ust.ac.kr)
 
-### News
+### Current Activities
 <!---
 
 --->
