@@ -15,7 +15,7 @@
 
 --->
 - <p align="justify"> <span style="color:blue"> (The 3rd GIST-ETRI AI Workshop 2022)</span> I am grateful to share my talk about "Multiscaled Edge AI Technology: Motivation, Research Trends, and Our Achievements," held in GIST, Gwangu City, July 28, 2022. </p>
-- <p align="justify"> <span style="color:blue"> (The 1st Visual Intelligence Workshop 2022) I shared my talk about "Edge AI Research Treads: Compression, Neural Architecture Search, Multiscaling," associated with KCC(Korea Computer Congress) 2022 held in Jeju Island, June 30 2022 </span> </em>." </p>
+- <p align="justify"> <span style="color:blue"> (The 1st Visual Intelligence Workshop 2022)</span> I shared my talk about "Edge AI Research Treads: Compression, Neural Architecture Search, Multiscaling," associated with KCC(Korea Computer Congress) 2022 held in Jeju Island, June 30 2022." </p>
 - <p align="justify"> <span style="color:blue"> (Edge AI Summer Workshop) </span> Talks about nn-multiscaling, nn-disttraining, nn-runtime, edgeai-applications and cloud-edge framework are shared and related topics are freely discussed with our edge.ai partners, which are KETI, KAIST, Nota, FarmConnect, and Daejeon City." </p>
 - <p align="justify"> <span style="color:blue"> (ETRI - Edge AI Summer Internship) </span> "<em> Edge AI Summer Intership Program 2022 associated with ETRI (July 1 ~ August 31)</em>".</p>
 - <p align="justify"> <span style="color:blue"> (Best Paper Awards) </span> Eunji Kim and Seongwoo Kim (Winter Internship 2022) won the Best Paper Awards in ASK 2022 organized by KIPS. - "<em> A Docker-based Evaluation Program for Model Inference Performance on Heterogeneous Edge Environments </em>" (Mentor: Jongryul Lee, Advisor: Yong-Hyuk Moon). </p>
@@ -72,9 +72,16 @@
 - <p align="justify"> (2018.04 ~ 2020.12 as Task Lead) Development of Big Data Edge Analytics SW Technology for Load Balancing and Active Timely Response (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)). </p>
 
 ### New Publication
+- <p align="justify"> <span style="color:blue"> (New) Jongryul Lee and Yong-Hyuk Moon, "Bespoke: A Block-Level Neural Network Optimization Framework for Low-Cost Deployment," accepted in Association for the Advancement of Artificial Intelligence (AAAI) 2023.
+</span> </p>
+- <p align="justify"> <span style="color:blue"> (New) Jongryul Lee and Yong-Hyuk Moon, "Rethinking Group Fisher Pruning for Efficient Label-Free Network Compression," published in The 33rd British Machine Vision Association and Society for Pattern Recognition (BMVC) 2022, London, UK, November 21-24, 2022 (See https://bmvc2022.mpi-inf.mpg.de/693/). </span> </p>
+
+<!---
 - <p align="justify"> <span style="color:blue"> (New) We have submitted a new journal paper regarding inference acceleration on edges. </span> </p>
 - <p align="justify"> <span style="color:blue"> (New) We are working on drafting to submit our new paper in BMVC 2022. <!--(https://britishmachinevisionassociation.github.io/bmvc)--> <!-- (AI Top-Tier, H5-index 105) --> </span> </p>
 - <p align="justify"> <span style="color:blue"> (New) As a result of Edge AI Winter Intership Program 2022, we are working on drafting to submit our new paper in a domestic journal. </span> </p>
+--->
+
 - <p align="justify"> (IEEE Journal, SCIE-indexed, IF 3.367) Jong-Yeon Park, Yong-Hyuk Moon, Wonil Lee, Sung-Hyun Kim, and Kouichi Sakurai, "A Survey of Polynomial Multiplication With RSA-ECC Coprocessors and Implementations of NIST PQC Round3 KEM Algorithms in Exynos2100," published in IEEE ACCESS Volume 10, 2022. </p>
 - <p align="justify"> (AI Top-Tier, H5-Index 112) Jong-Ryul Lee, Yong-Ju Lee, and Yong-Hyuk Moon, "Block-wise Word Embedding Compression Revisited: Better Weighting and Structuring," in the proceedings of The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 7, 2021. </p>
    <!-- - [Paper](https://aclanthology.org/2021.findings-emnlp.372.pdf) <br> -->
