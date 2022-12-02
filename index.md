@@ -11,9 +11,6 @@
 - [Apply UST!](https://apply.ust.ac.kr)
 
 ### Current Activities
-<!---
-
---->
 - <p align="justify"> <span style="color:blue"> (The 3rd GIST-ETRI AI Workshop 2022)</span> I am grateful to share my talk about "Multiscaled Edge AI Technology: Motivation, Research Trends, and Our Achievements," held in GIST, Gwangu City, July 28, 2022. </p>
 - <p align="justify"> <span style="color:blue"> (The 1st Visual Intelligence Workshop 2022)</span> I shared my talk about "Edge AI Research Treads: Compression, Neural Architecture Search, Multiscaling," associated with KCC(Korea Computer Congress) 2022 held in Jeju Island, June 30 2022." </p>
 - <p align="justify"> <span style="color:blue"> (Edge AI Summer Workshop) </span> Talks about nn-multiscaling, nn-disttraining, nn-runtime, edgeai-applications and cloud-edge framework are shared and related topics are freely discussed with our edge.ai partners, which are KETI, KAIST, Nota, FarmConnect, and Daejeon City." </p>
@@ -72,8 +69,7 @@
 - <p align="justify"> (2018.04 ~ 2020.12 as Task Lead) Development of Big Data Edge Analytics SW Technology for Load Balancing and Active Timely Response (This work was supported by Institute of Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT)). </p>
 
 ### New Publication
-- <p align="justify"> <span style="color:blue"> (New) Jongryul Lee and Yong-Hyuk Moon, "Bespoke: A Block-Level Neural Network Optimization Framework for Low-Cost Deployment," accepted in Association for the Advancement of Artificial Intelligence (AAAI) 2023.
-</span> </p>
+- <p align="justify"> <span style="color:blue"> (New) Jongryul Lee and Yong-Hyuk Moon, "Bespoke: A Block-Level Neural Network Optimization Framework for Low-Cost Deployment," accepted in Association for the Advancement of Artificial Intelligence (AAAI) 2023. </span> </p>
 - <p align="justify"> <span style="color:blue"> (New) Jongryul Lee and Yong-Hyuk Moon, "Rethinking Group Fisher Pruning for Efficient Label-Free Network Compression," published in The 33rd British Machine Vision Association and Society for Pattern Recognition (BMVC) 2022, London, UK, November 21-24, 2022 (See https://bmvc2022.mpi-inf.mpg.de/693/). </span> </p>
 <!---
 - <p align="justify"> <span style="color:blue"> (New) We have submitted a new journal paper regarding inference acceleration on edges. </span> </p>
