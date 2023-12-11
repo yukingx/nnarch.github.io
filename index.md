@@ -11,7 +11,7 @@
 - [Apply UST!](https://apply.ust.ac.kr)
 
 ### Current Activities
-- <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em> Serving as a reviewer for top-tier AI conferences 2024 (Jan. 1 ~ Feb. 28)</em>".</p>
+- <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em> Serving as a reviewer for top-tier AI conferences 2024 (Dec. 1, 2023 ~ Feb. 28, 2024)</em>".</p>
 - <p align="justify"> <span style="color:blue"> (ETRI - Edge AI Winter Internship 2023) </span> "<em> Edge AI Winter Intership Program 2023 associated with ETRI (Jan. 1 ~ Feb. 28)</em>".</p>
 - <p align="justify"> <span style="color:blue"> (The 3rd GIST-ETRI AI Workshop 2022)</span> I am grateful to share my talk about "Multiscaled Edge AI Technology: Motivation, Research Trends, and Our Achievements," held in GIST, Gwangu City, July 28, 2022. </p>
 - <p align="justify"> <span style="color:blue"> (The 1st Visual Intelligence Workshop 2022)</span> I shared my talk about "Edge AI Research Treads: Compression, Neural Architecture Search, Multiscaling," associated with KCC(Korea Computer Congress) 2022 held in Jeju Island, June 30 2022." </p>
