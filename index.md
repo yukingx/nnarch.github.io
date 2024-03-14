@@ -14,7 +14,7 @@
 - <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em> Serving as a reviewer for ACL 2024 (Feb. 2024 ~ March 2024)</em>".</p>
 - <p align="justify"> <span style="color:blue"> (New Student) </span> "<em> Sungyoun Lim starts his Ph.D. program under the supervision of Prof. Yong-Hyuk Moon. (March. 1, 2024)</em>".</p>
 - <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em> Serving as a reviewer for CVPR 2024 (Dec. 1, 2023 ~ Feb. 28, 2024)</em>".</p>
-- <p align="justify"> <span style="color:blue"> (ETRI - Edge AI Winter Internship 2023) </span> "<em> Edge AI Winter Intership Program 2023 associated with ETRI (Jan. 1 ~ Feb. 28)</em>".</p>
+- <p align="justify"> <span style="color:blue"> (ETRI - Edge AI Winter Internship 2023) </span> "<em> Edge AI Winter Intership Program 2023 associated with ETRI (Jan. 1 2024 ~ Feb. 28 2024)</em>".</p>
 - <p align="justify"> <span style="color:blue"> (The 3rd GIST-ETRI AI Workshop 2022)</span> I am grateful to share my talk about "Multiscaled Edge AI Technology: Motivation, Research Trends, and Our Achievements," held in GIST, Gwangu City, July 28, 2022. </p>
 - <p align="justify"> <span style="color:blue"> (The 1st Visual Intelligence Workshop 2022)</span> I shared my talk about "Edge AI Research Treads: Compression, Neural Architecture Search, Multiscaling," associated with KCC(Korea Computer Congress) 2022 held in Jeju Island, June 30 2022." </p>
 - <p align="justify"> <span style="color:blue"> (Edge AI Summer Workshop) </span> Talks about nn-multiscaling, nn-disttraining, nn-runtime, edgeai-applications and cloud-edge framework are shared and related topics are freely discussed with our edge.ai partners, which are KETI, KAIST, Nota, FarmConnect, and Daejeon City." </p>
@@ -93,6 +93,8 @@
 ### Internship Programs
 <!-- 인턴 수행과정(최종발표자료, 구현코드/실험결과(Repo), 발표사진, 연구사진, 기념사진 등) 서브페이지 작성 -->
 <!-- 본 내용을 etri-edgeai.github.io 에도 동일하게 구성하여 홍보실적 2건으로 구성 -->
+- <p align="justify"> (2024.01.01~2024.02.29) Edge AI Winter Intership Program 2024 associated with ETRI (Interns: Sungyoun Lim). </p>
+- <p align="justify"> (2023.01.01~2023.02.28) Edge AI Summer Intership Program 2023 associated with ETRI (Interns: Yeojin Lee). </p>
 - <p align="justify"> (2022.07.01~2022.08.31) Edge AI Summer Intership Program 2022 associated with ETRI (Interns: Seungsang Kwon). </p>
 - <p align="justify"> (2022.01.03~2022.02.25) Edge AI Winter Intership Program 2022 associated with UST (Interns: Jungmo Kim and Seongwoo Kim). </p>
 - <p align="justify"> (2022.01.01~2022.02.28) Edge AI Winter Intership Program 2022 associated with ETRI (Interns: Eunji Kim, Eunkyeoung Kim, and Seungwoo Roh). </p>
