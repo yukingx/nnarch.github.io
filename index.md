@@ -11,21 +11,21 @@
 - [Apply UST!](https://apply.ust.ac.kr)
 
 ### Current Activities
-- <p align="justify"> <span style="color:black"> (Edge AI Workshop 2024) </span> "<em> Edge AI Workshop associated with KCC 2024 (June. 28 2024)</em>".</p>
-- <p align="justify"> <span style="color:black"> (Edge AI Summer Internship 2024) </span> "<em> Edge AI Summer Intership Program 2024 associated with ETRI (July. 1 2024 ~ August. 31 2024)</em>".</p>
+- <p align="justify"> <span style="color:blue"> (Edge AI Workshop 2024) </span> "<em> Edge AI Workshop associated with KCC 2024 (June. 28 2024)</em>".</p>
+- <p align="justify"> <span style="color:blue"> (Edge AI Summer Internship 2024) </span> "<em> Edge AI Summer Intership Program 2024 associated with ETRI (July. 1 2024 ~ August. 31 2024)</em>".</p>
 - <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em>Serving as a reviewer for Neurocomputing Journal (May. 2024)</em>".</p>
 - <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em>Serving as a reviewer for ICPR 2024 (May. 2024)</em>".</p>
 - <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em>Serving as a reviewer for ACL 2024 (Feb. 2024 ~ March 2024)</em>".</p>
-- <p align="justify"> <span style="color:blue"> (New Student) </span> "<em> Sungyoun Lim starts his Ph.D. program under the supervision of Prof. Yong-Hyuk Moon. (March. 1, 2024)</em>".</p>
-- <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em> Serving as a reviewer for CVPR 2024 (Dec. 1, 2023 ~ Feb. 28, 2024)</em>".</p>
-- <p align="justify"> <span style="color:black"> (Edge AI Workshop 2023) </span> "<em> Edge AI Workshop associated with KCC 2023 (June. 2024)</em>".</p>
-- <p align="justify"> <span style="color:black"> (ETRI - Edge AI Winter Internship 2023) </span> "<em> Edge AI Winter Intership Program 2023 associated with ETRI (Jan. 1 2024 ~ Feb. 28 2024)</em>".</p>
+- <p align="justify"> <span style="color:blue"> (New Student) </span> "<em>Sungyoun Lim starts his Ph.D. program under the supervision of Prof. Yong-Hyuk Moon. (March. 1, 2024)</em>".</p>
+- <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em>Serving as a reviewer for CVPR 2024 (Dec. 1, 2023 ~ Feb. 28, 2024)</em>".</p>
+- <p align="justify"> <span style="color:black"> (Edge AI Workshop 2023) </span> "<em>Edge AI Workshop associated with KCC 2023 (June. 2024)</em>".</p>
+- <p align="justify"> <span style="color:black"> (Edge AI Winter Internship 2023) </span> "<em>Edge AI Winter Intership Program 2023 associated with ETRI (Jan. 1 2024 ~ Feb. 28 2024)</em>".</p>
 - <p align="justify"> <span style="color:black"> (The 3rd GIST-ETRI AI Workshop 2022)</span> I am grateful to share my talk about "Multiscaled Edge AI Technology: Motivation, Research Trends, and Our Achievements," held in GIST, Gwangu City, July 28, 2022. </p>
 - <p align="justify"> <span style="color:black"> (The 1st Visual Intelligence Workshop 2022)</span> I shared my talk about "Edge AI Research Treads: Compression, Neural Architecture Search, Multiscaling," associated with KCC(Korea Computer Congress) 2022 held in Jeju Island, June 30 2022." </p>
-- <p align="justify"> <span style="color:black"> (Edge AI Summer Workshop) </span> Talks about nn-multiscaling, nn-disttraining, nn-runtime, edgeai-applications and cloud-edge framework are shared and related topics are freely discussed with our edge.ai partners, which are KETI, KAIST, Nota, FarmConnect, and Daejeon City." </p>
-- <p align="justify"> <span style="color:black"> (ETRI - Edge AI Summer Internship) </span> "<em> Edge AI Summer Intership Program 2022 associated with ETRI (July 1 ~ August 31)</em>".</p>
-- <p align="justify"> <span style="color:black"> (Best Paper Awards) </span> Eunji Kim and Seongwoo Kim (Winter Internship 2022) won the Best Paper Awards in ASK 2022 organized by KIPS. - "<em> A Docker-based Evaluation Program for Model Inference Performance on Heterogeneous Edge Environments </em>" (Mentor: Jongryul Lee, Advisor: Yong-Hyuk Moon). </p>
-- <p align="justify"> <span style="color:black"> (Paper Awards) </span> Eunkyeoung Kim (Winter Intenship 2022) won the Paper Awards in ASK 2022 organized by KIPS. - "<em> Instance Segmentation Based Tomato Pests Disease Detection for Feasibility Evaluation </em>" (Mentor: Junyong Park, Advisor: Yong-Hyuk Moon). </p>
+- <p align="justify"> <span style="color:black"> (Edge AI Workshop 2022) </span> Talks about nn-multiscaling, nn-disttraining, nn-runtime, edgeai-applications and cloud-edge framework are shared and related topics are freely discussed with our edge.ai partners, which are KETI, KAIST, Nota, FarmConnect, and Daejeon City." </p>
+- <p align="justify"> <span style="color:black"> (Edge AI Summer Internship) </span> "<em>Edge AI Summer Intership Program 2022 associated with ETRI (July 1 ~ August 31)</em>".</p>
+- <p align="justify"> <span style="color:black"> (Best Paper Awards) </span> Eunji Kim and Seongwoo Kim (Winter Internship 2022) won the Best Paper Awards in ASK 2022 organized by KIPS. - "<em>A Docker-based Evaluation Program for Model Inference Performance on Heterogeneous Edge Environments</em>" (Mentor: Jongryul Lee, Advisor: Yong-Hyuk Moon). </p>
+- <p align="justify"> <span style="color:black"> (Paper Awards) </span> Eunkyeoung Kim (Winter Intenship 2022) won the Paper Awards in ASK 2022 organized by KIPS. - "<em>Instance Segmentation Based Tomato Pests Disease Detection for Feasibility Evaluation</em>" (Mentor: Junyong Park, Advisor: Yong-Hyuk Moon). </p>
 
 ### Research
 <!---
