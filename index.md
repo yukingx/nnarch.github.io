@@ -11,6 +11,8 @@
 - [Apply UST!](https://apply.ust.ac.kr)
 
 ### Current Activities
+- <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em> Serving as a reviewer for Neurocomputing Journal (May. 2024)</em>".</p>
+- <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em> Serving as a reviewer for ICPR 2024 (May. 2024)</em>".</p>
 - <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em> Serving as a reviewer for ACL 2024 (Feb. 2024 ~ March 2024)</em>".</p>
 - <p align="justify"> <span style="color:blue"> (New Student) </span> "<em> Sungyoun Lim starts his Ph.D. program under the supervision of Prof. Yong-Hyuk Moon. (March. 1, 2024)</em>".</p>
 - <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em> Serving as a reviewer for CVPR 2024 (Dec. 1, 2023 ~ Feb. 28, 2024)</em>".</p>
