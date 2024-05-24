@@ -11,13 +11,13 @@
 - [Apply UST!](https://apply.ust.ac.kr)
 
 ### Current Activities
-- <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em>Serving as a reviewer for EMNLP 2024 (July. 2024)</em>".</p>
-- <p align="justify"> <span style="color:blue"> (Edge AI Workshop 2024) </span> "<em> Edge AI Workshop associated with KCC 2024 (June. 28 2024)</em>".</p>
-- <p align="justify"> <span style="color:blue"> (Edge AI Summer Internship 2024) </span> "<em> Edge AI Summer Intership Program 2024 associated with ETRI (July. 1 2024 ~ August. 31 2024)</em>".</p>
-- <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em>Serving as a reviewer for Neurocomputing Journal (May. 2024)</em>".</p>
-- <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em>Serving as a reviewer for ICPR 2024 (May. 2024)</em>".</p>
+- <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em>Serving as a reviewer for EMNLP 2024 (July 2024)</em>".</p>
+- <p align="justify"> <span style="color:blue"> (Edge AI Workshop 2024) </span> "<em> Edge AI Workshop associated with KCC 2024 (June 28 2024)</em>".</p>
+- <p align="justify"> <span style="color:blue"> (Edge AI Summer Internship 2024) </span> "<em> Edge AI Summer Intership Program 2024 associated with ETRI (July 1 2024 ~ August 31 2024)</em>".</p>
+- <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em>Serving as a reviewer for Neurocomputing Journal (May 2024)</em>".</p>
+- <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em>Serving as a reviewer for ICPR 2024 (May 2024)</em>".</p>
 - <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em>Serving as a reviewer for ACL 2024 (Feb. 2024 ~ March 2024)</em>".</p>
-- <p align="justify"> <span style="color:blue"> (New Student) </span> "<em>Sungyoun Lim starts his Ph.D. program under the supervision of Prof. Yong-Hyuk Moon. (March. 1, 2024)</em>".</p>
+- <p align="justify"> <span style="color:blue"> (New Student) </span> "<em>Sungyoun Lim starts his Ph.D. program under the supervision of Prof. Yong-Hyuk Moon. (March 1, 2024)</em>".</p>
 - <p align="justify"> <span style="color:blue"> (Professional Service) </span> "<em>Serving as a reviewer for CVPR 2024 (Dec. 1, 2023 ~ Feb. 28, 2024)</em>".</p>
 - <p align="justify"> <span style="color:black"> (Edge AI Workshop 2023) </span> "<em>Edge AI Workshop associated with KCC 2023 (June. 2024)</em>".</p>
 - <p align="justify"> <span style="color:black"> (Edge AI Winter Internship 2023) </span> "<em>Edge AI Winter Intership Program 2023 associated with ETRI (Jan. 1 2024 ~ Feb. 28 2024)</em>".</p>
