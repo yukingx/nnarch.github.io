@@ -1,3 +1,7 @@
+
+# Importance Notification
+### Starting in September 2024, I began my research as an Assistant Professor at Sungshin Women's University. The SAIL (Scalable Artificial Intelligence Lab) website will be launched soon. Please contact me at yhmoon@sswu.ac.kr.
+
 <!---
 ## Deep Neural Optimization Lab 
 --->
