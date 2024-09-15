@@ -1,6 +1,6 @@
 
 # Importance Notification
-<p align="justify"> Starting in September 2024, I began my research as an Assistant Professor at Sungshin Women's University. A new website for SAIL(Scalable Artificial Intelligence Lab) will be launched soon. Please contact me at yhmoon_@_sungshin_ac_kr. </p>
+<p align="justify"> Starting in September 2024, I began my research as an Assistant Professor at Sungshin Women's University. A new website for SAIL(Scalable Artificial Intelligence Lab) will be launched soon. Please contact me at yhmoon_at_sungshin_dot_ac_dot_kr. </p>
 
 <!---
 ## Deep Neural Optimization Lab 
