@@ -1,5 +1,6 @@
 
-# Importance Notification - 2024년 미국 개발자 회의 계획
+# Importance Notification 
+- 2024년 미국 개발자 회의 계획 공유 (yhmoon)
 
 ### Meeting Location and Schedule
 - [Hilton San Francisco Union Square](https://www.hilton.com/en/hotels/sfofhhh-hilton-san-francisco-union-square/)
